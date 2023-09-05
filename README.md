@@ -1,2 +1,2 @@
 # html_project
-My first HTML and CSS project
+My first HTML and CSS project - Amazon clone.
