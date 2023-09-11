@@ -141,7 +141,7 @@ span{
 .hero-section{
 	background-image: url("images/hero_image.jpg");
 	background-size:cover;
-	height: 600px;
+	height: 400px;
 	display: flex;
 	justify-content: center;
 	align-items: flex-end;
@@ -156,7 +156,7 @@ span{
 	justify-content: center;
 	font-size: 0.85rem;
 	width: 80%;
-	margin-bottom: 300px;
+	margin-bottom: 25px;
 	border-radius: 3px;
 }
 
@@ -164,7 +164,20 @@ span{
 	color: #007185;
 }
 
+/** shop section **/
 
+.shop-section{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: #e2e7e6;
+}
+
+.box{
+	border: 2px solid black;
+	height: 400px;
+	width: 23%;
+	background-color: white;
+}
 
 
 
