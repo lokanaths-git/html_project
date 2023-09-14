@@ -173,13 +173,26 @@ span{
 }
 
 .box{
-	border: 2px solid white;
-	height: 300px;
-	width: 23%;
-	background-color:skyblue;
-	margin-top: 10px;
-	
+	/* border: 2px solid black; */
+	height: 400px;
+	width: 24%;
+	background-color:white; 
+	padding: 20px 0px 15px;
+	margin-top: 15px;
 }
+
+.box-img{
+	height: 300px;
+	background-image: contain;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.box-content{
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
 
 
 
