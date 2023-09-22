@@ -216,8 +216,14 @@ footer{
 .foot-panel2{
 	background-color: #222f3d;
 	color: white;
+	height: 300px;
+	display: flex;
+	justify-content: space-evenly;
 }
 
+.ul a{
+	display: block;
+}
 
 
 
