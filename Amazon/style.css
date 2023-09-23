@@ -216,7 +216,7 @@ footer{
 .foot-panel2{
 	background-color: #222f3d;
 	color: white;
-	height: 300px;
+	height: 200px;
 	display: flex;
 	justify-content: space-evenly;
 }
