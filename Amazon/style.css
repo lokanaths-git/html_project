@@ -221,6 +221,10 @@ footer{
 	justify-content: space-evenly;
 }
 
+ul{
+	list-style-type: none;
+}
+
 .ul a{
 	display: block;
 	font-size: 0.85rem;
