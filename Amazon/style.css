@@ -236,7 +236,16 @@ ul a {
 	background-color:  #37475a;
 	border-top: 0.5px solid white;
 	height: 80px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
+.logo1{
+	background-image:url("images/amazon_logo.png");
+	height: 50px;
+	width: 100px;
+	background-size: cover;
+}
 
 
