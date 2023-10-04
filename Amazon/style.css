@@ -248,4 +248,13 @@ ul a {
 	background-size: cover;
 }
 
+.foot-panel4{
+	background-color:  #0f1111;
+	color:white;
+	height: 100px;
+	/* display: flex;
+	justify-content: center;
+	align-items: center; */
+}
+
 
