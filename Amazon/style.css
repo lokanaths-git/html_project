@@ -257,4 +257,16 @@ ul a {
 	align-items: center; */
 }
 
+.pages{
+	font-size: 0.7rem;
+	text-align: center;
+	padding-top: 25px;
+}
+
+.copy-right{
+	font-size: 0.7rem;
+	text-align: center;
+	padding-top: 5px;
+}
+
 
